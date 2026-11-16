@@ -19,8 +19,8 @@ int main(void)
     for (i = 1; i <= n; i++)
     {
         sum += i;
-    }
+    }    
    
     printf("%ld", sum); // 出力も %ld に変更
     return 0;
-}
+} 
